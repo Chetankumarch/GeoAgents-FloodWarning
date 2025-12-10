@@ -1,0 +1,13 @@
+rainfall_mm_72h:
+  low: 0        # <= low => LOW
+  medium: 50    # > low and <= medium => MEDIUM
+  high: 150     # > medium => HIGH
+
+river_stage_ratio:
+  # Ratio = current_stage_ft / flood_stage_ft
+  low: 0.7      # <= low => LOW
+  medium: 0.9   # > low and <= medium => MEDIUM
+  high: 1.0     # > medium => HIGH (at/over flood stage)
+
+# Optional per-gauge overrides (leave empty for now)
+gauge_overrides: {}

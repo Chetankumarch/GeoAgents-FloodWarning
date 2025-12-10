@@ -1,0 +1,43 @@
+gauges:
+  - id: "11425500"
+    name: "Sacramento River at Bend Bridge"
+    latitude: 40.3650
+    longitude: -122.2053
+    flood_stage_ft: 120.0
+    notes: "Mainstem upstream signal."
+  - id: "11447650"
+    name: "Sacramento River at Colusa"
+    latitude: 39.2143
+    longitude: -122.0103
+    flood_stage_ft: 60.0
+    notes: "Mid-basin indicator."
+  - id: "11447675"
+    name: "Sacramento River at Verona"
+    latitude: 38.7266
+    longitude: -121.6203
+    flood_stage_ft: 41.0
+    notes: "Upstream of metro confluence."
+  - id: "11426000"
+    name: "Sacramento River at Keswick Dam"
+    latitude: 40.5924
+    longitude: -122.4242
+    flood_stage_ft: 265.0
+    notes: "Regulated releases from Shasta/Keswick."
+  - id: "11447600"
+    name: "Sacramento River at Ord Ferry"
+    latitude: 39.6263
+    longitude: -121.9925
+    flood_stage_ft: 90.0
+    notes: "Cumulative flows after Tehama/Glenn inputs."
+  - id: "11421000"
+    name: "Feather River at Oroville"
+    latitude: 39.5107
+    longitude: -121.5536
+    flood_stage_ft: 115.0
+    notes: "Oroville releases."
+  - id: "11370500"
+    name: "American River at Fair Oaks"
+    latitude: 38.6496
+    longitude: -121.2655
+    flood_stage_ft: 40.0
+    notes: "Key tributary to Sacramento metro."
